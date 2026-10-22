@@ -1,0 +1,94 @@
+{
+  "checked": "2026-10-22",
+  "screenshots": {
+    "source": {
+      "file": "07_view-source_title_Home-Cafex_no_meta_description_robots_noindex.png",
+      "title": "Homepage source: noindex",
+      "caption": "Captured 22 Oct 2026 and checked against live source. The robots tag says noindex. The page also has WebSite markup; this is not a claim that all schema is missing.",
+      "url": "https://www.hechoencafex.com/",
+      "position": "left 58%",
+      "focus": {
+        "width": 1920,
+        "x": 0,
+        "y": 590
+      }
+    },
+    "menu": {
+      "file": "04a_site_menu_avocado_toast_no_price_listed.png",
+      "title": "The visible site menu",
+      "caption": "Captured 22 Oct 2026 and checked live. Avocado Toast has a description but no visible price. There is no visible site-price mismatch.",
+      "url": "https://www.hechoencafex.com/menu",
+      "position": "left 38%"
+    },
+    "toast-price": {
+      "file": "04b_toast_avocado_toast_11.95.png",
+      "title": "Toast shows an ordering price",
+      "caption": "Captured 22 Oct 2026. Toast displays Avocado Toast at $11.95. Guests can find a price here, but not on the visible website menu.",
+      "url": "https://order.toasttab.com/online/con-azucar-cafe-630-k-street-suite-100",
+      "position": "left 53%"
+    },
+    "toast-hours": {
+      "file": "05_toast_con_azucar_name_and_hours.png",
+      "title": "Toast: name and ordering window",
+      "caption": "Captured 22 Oct 2026. The modal header says CAFÉX while the location footer still says Con Azucar. The displayed ordering window is not verified café opening hours.",
+      "url": "https://order.toasttab.com/online/con-azucar-cafe-630-k-street-suite-100",
+      "position": "center 50%"
+    },
+    "doordash": {
+      "file": "08_doordash_4.7_500plus_ratings_hours_7-440.png",
+      "title": "DoorDash: ratings and menu window",
+      "caption": "Captured 22 Oct 2026. DoorDash displays 4.7 from 500+ ratings. Ratings are not the same as written reviews. Its Full Menu hours describe an ordering window.",
+      "url": "https://www.doordash.com/en/store/caféx-:-coffee-&-juice-bar-630-k-st-ste-100-ste-100-sacramento-32985911/54397948/",
+      "position": "center 43%"
+    },
+    "home": {
+      "file": "01_wix_homepage_footer_2035.png",
+      "title": "The complete homepage",
+      "caption": "Captured 22 Oct 2026 and checked live. The homepage goes from hero to a footer marked ©2035, without on-page video, reviews or story detail. Our Story is a separate, working page.",
+      "url": "https://www.hechoencafex.com/",
+      "position": "center 60%"
+    },
+    "shop": {
+      "file": "10_shop_coming_soon.png",
+      "title": "Shop: coming soon, with signup",
+      "caption": "Captured 22 Oct 2026 and checked live. Shop says Coming Soon and already has a Notify Me signup. Build on it with useful launch details.",
+      "url": "https://www.hechoencafex.com/shop",
+      "position": "center 50%"
+    },
+    "story": {
+      "file": "13_live_story.jpg",
+      "title": "A specific Mexican coffee story",
+      "caption": "Captured live, 22 Oct 2026. The working Our Story page describes Nayarit coffee, Zacatecas roots and Mexican coffee culture. These are the café’s own published claims, not independently audited sourcing.",
+      "url": "https://www.hechoencafex.com/ourstory",
+      "position": "center 18%"
+    },
+    "social-ig": {
+      "file": "16_contact_instagram_wix.jpg",
+      "title": "Contact sends Instagram visitors to Wix",
+      "caption": "Captured live, 22 Oct 2026. Hovering the Contact page’s Instagram icon shows instagram.com/wix in Chrome’s lower-left link preview. The footer uses the correct CAFÉX account.",
+      "url": "https://www.hechoencafex.com/contact-10",
+      "position": "left 58%",
+      "focus": {
+        "width": 1364,
+        "x": 80,
+        "y": 500
+      }
+    },
+    "social-fb": {
+      "file": "17_contact_facebook_wix.jpg",
+      "title": "Contact sends Facebook visitors to Wix",
+      "caption": "Captured live, 22 Oct 2026. The Contact page’s Facebook icon previews facebook.com/wix. These are template links in the contact section, not broken navigation links.",
+      "url": "https://www.hechoencafex.com/contact-10",
+      "position": "left 58%",
+      "focus": {
+        "width": 1364,
+        "x": 80,
+        "y": 500
+      }
+    }
+  },
+  "artwork": {
+    "cafex-hero.png": "https://static.wixstatic.com/media/4ffd46_8fcf930a65084350a2e2ad0694a6ba61~mv2.png",
+    "cafex-logo.png": "https://static.wixstatic.com/media/4ffd46_631f46f68db94201ae9be259a3937855~mv2.png"
+  }
+}
